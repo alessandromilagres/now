@@ -1,0 +1,331 @@
+{
+  "manifest_version": 1,
+  "source_archive": {
+    "path": "now-specification-initial.zip",
+    "size_bytes": 50280166,
+    "sha256": "533f71f9b5cc89462d48c6c26f595c67f0d4b49b16d2f45e2a1ee21b1ef55043"
+  },
+  "original_file_count": 64,
+  "files": [
+    {
+      "path": "specification/architecture/NOW_REVISED_AWS_ARCHITECTURE_V2_DETAILED_DOWNLOAD.zip",
+      "size_bytes": 432198,
+      "sha256": "907059348ef000b26a099ab5ab2e6c7c86f4624e6555cdadbcdaa14dbe99ea7f"
+    },
+    {
+      "path": "specification/documents/NOW-Master-Strategy-and-Investor-Document(1).pdf",
+      "size_bytes": 2120969,
+      "sha256": "4fd9a39d94c1999e98efd2195140e82e02ef2937a1eb5b8134c8aa5b3c04bf4a"
+    },
+    {
+      "path": "specification/documents/NOW_Executive_Team.pdf",
+      "size_bytes": 7471,
+      "sha256": "0b16389f90b9a152ea01d79af0e45f81f2822752cd7292a2adcbab45a0c4099c"
+    },
+    {
+      "path": "specification/documents/NOW—TerritoryMVPTechnical,Functional&AWSArchitectureSpecification.docx",
+      "size_bytes": 484119,
+      "sha256": "117aff0148a534dc0f7f9b716f255da2a762f09b57f563f46ff1cf80b3c72577"
+    },
+    {
+      "path": "specification/documents/monetisationetphoto(1).pdf",
+      "size_bytes": 341188,
+      "sha256": "4c0a89866860ab07d201e583861e19839230637cd9db913c5a0ed0306db18589"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-13at14.09.23(1).jpeg",
+      "size_bytes": 221271,
+      "sha256": "01631cd6f9f44a42d2441c8022643a7d33fa35bab0b671742338a9b6898e85cc"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-13at14.09.23.jpeg",
+      "size_bytes": 190307,
+      "sha256": "ae9bfcb1132a751801bbc2e1a21fd667f0ac60768f83a7f8f49b659cb0ecc058"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.22.jpeg",
+      "size_bytes": 266189,
+      "sha256": "c20a3edbac240ef5cc2ade9a03664c7dab3619c17135d32439d62b5ef6872779"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.23(1).jpeg",
+      "size_bytes": 259515,
+      "sha256": "d670bf9eb79550d455385cb89bc9f22d49e56219ee1a5f1cdb6786830b4528af"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.23(2).jpeg",
+      "size_bytes": 270405,
+      "sha256": "110a180135529057871c13edd6fef7e978faa21122492a3c90108a86e96c9d0e"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.23(3).jpeg",
+      "size_bytes": 242662,
+      "sha256": "3d7abef5c1f4c15baf2c91d2416447ee9569f42fa97fdfd1b576c2ea36077384"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.23.jpeg",
+      "size_bytes": 233651,
+      "sha256": "0b3cadf6852b38db470b2465ee9b1ebb3ab3b44d8ea7302efde0227ed82a33f0"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.24(1).jpeg",
+      "size_bytes": 234359,
+      "sha256": "6cf5410a499af1149177932ee2e756594f2f3ff8d1bf42303c4f0413454049c9"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.24(2).jpeg",
+      "size_bytes": 263901,
+      "sha256": "3d28bcb4c44c3510a98cff57974e221bd493f80cd38598ee2f4b586e8cb08d74"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.24(3).jpeg",
+      "size_bytes": 275619,
+      "sha256": "f8e98adb0263d79f103e64c04bb958af4f03f2051e1646a06bef1ff4cca8022e"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.24.jpeg",
+      "size_bytes": 249584,
+      "sha256": "53f224ffa909566bf5a974981028425ac6a2678eaceb82222c3c2f31a11d2b58"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.25(1).jpeg",
+      "size_bytes": 229669,
+      "sha256": "ba9476834ef69e607479c90c54ce6ce763404524c277a4e18585bf7212802211"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.25(2).jpeg",
+      "size_bytes": 226413,
+      "sha256": "4188022f1a1aeb40dbb1af900c7bd74def11aba780ffd55423b0c5929e15f2fa"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.25(3).jpeg",
+      "size_bytes": 233457,
+      "sha256": "2d87381eb513b3223ff2c2adeb6ad4c7cb471ac2d383e028c9c94ff99b47b02f"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.25.jpeg",
+      "size_bytes": 254229,
+      "sha256": "c554266b6012ae980afb2b0da7318931820cb504a4f6659b30d61ef109ce002a"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.26(1).jpeg",
+      "size_bytes": 239067,
+      "sha256": "e181ad3463720a2aa6ed603cc3572323341f32b498b34fc1fbf2152612a3d6e2"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.26(2).jpeg",
+      "size_bytes": 207379,
+      "sha256": "1cc7641363d7c3417f1f622d76c4a88bdff96246c9c076b169c37b29db422c65"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.26(3).jpeg",
+      "size_bytes": 219101,
+      "sha256": "d1675e8fb47ea1a245e076c938991f477ea48e9260c599402dbcb591394e31f8"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.26.jpeg",
+      "size_bytes": 208922,
+      "sha256": "4abf8afbd17852c5b70c4a56a324dc60346f501aa66d6958b567a5066c891a66"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.27(1).jpeg",
+      "size_bytes": 214624,
+      "sha256": "0c402d8b9f7f225544f13dcfa72ab0b7e89939bf792ca9d4535328c28bbf3c48"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.27(2).jpeg",
+      "size_bytes": 196251,
+      "sha256": "d548c4bbea470519fabedbbca0dd66a4ec16258daa64b6c693465b3dad1da09d"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.27(3).jpeg",
+      "size_bytes": 231835,
+      "sha256": "df662b4637375e2859ef7244f34384d56a501cbecd25b64c9895fc2e4b75a7c0"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.27.jpeg",
+      "size_bytes": 205452,
+      "sha256": "3da3a50784583b38d8557e894269954af57ff759734e53e9812d42da7bf6ab49"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.28(1).jpeg",
+      "size_bytes": 228421,
+      "sha256": "02f92c3cb06c757127a7cc3e8aa6f2123509da08a06c4e8a918678aae851c146"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.28(2).jpeg",
+      "size_bytes": 183194,
+      "sha256": "3aafb30b80ff28323bba38538b5f96b171cd8c760b648fdccc4b99670a4908e9"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.28(3).jpeg",
+      "size_bytes": 186256,
+      "sha256": "2667cddf4b9774d7cd6603f8c99ef02b9563fce3db040d17b0bd534c97d54fe4"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.28(4).jpeg",
+      "size_bytes": 194609,
+      "sha256": "fa1f155af9334ee07a57827a0187156084b962d07a07798577e61d4219856de3"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.28.jpeg",
+      "size_bytes": 228970,
+      "sha256": "966a94ecb3525dc163667be162264c99871a678494c8c231b0d95dfbafda75d7"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.29(1).jpeg",
+      "size_bytes": 199933,
+      "sha256": "29071659f2aa1a09366c7bb02bb2a8351219b259c0505b4f47ef972874412016"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.29(2).jpeg",
+      "size_bytes": 233331,
+      "sha256": "ddb96a5e1851cc03461bd94b7014c08e5fe70b8f90414dd65db058f1a939024d"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.29.jpeg",
+      "size_bytes": 206585,
+      "sha256": "ca9edd9f01b83257540c38f4f66662a2f98e125627b3bdc06907f5f29ac32cc2"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.30(1).jpeg",
+      "size_bytes": 191882,
+      "sha256": "f0aca9a8f5c8e448e79c4552058fba930ea41c8f82aad32a47e1fc6731279206"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.30(2).jpeg",
+      "size_bytes": 203687,
+      "sha256": "1ef714f6924862adcf7cd91ed4821c948a6d100547a1d2c623c0113ba0c7ff3b"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.30(3).jpeg",
+      "size_bytes": 209486,
+      "sha256": "0904012e00c7e013bb1f9d108ad34efe4f5c63173d13cb0ccd88f47bb09e8f68"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.30.jpeg",
+      "size_bytes": 206215,
+      "sha256": "3325d0c69067d03274737313862e5f84fa980cf39f48e9e9dc965879fcf280fb"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.31(1).jpeg",
+      "size_bytes": 181440,
+      "sha256": "d23f09e24d12eb0089888baf5914e5a586e141014d9b1fe1c2fe11850883c08e"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.31(2).jpeg",
+      "size_bytes": 188061,
+      "sha256": "8f721625bacac5b14611465a2cccb1c38db5f9cdd956e195949cfa9f7999b77b"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.31(3).jpeg",
+      "size_bytes": 208287,
+      "sha256": "ed4cfd415f9fe13503c9bdb65fbf576255edadc0dedc35f158f0100779202d4e"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.31(4).jpeg",
+      "size_bytes": 234756,
+      "sha256": "5e2316fca350b590e4ed1dd26504104701d26a4c4482d808cd0b04fe57ea5e48"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.31.jpeg",
+      "size_bytes": 180156,
+      "sha256": "08a74f86e39497d819ca0dea4a6de6805b03a7a96b565bfa041bc18661b8dbfc"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.32(1).jpeg",
+      "size_bytes": 231337,
+      "sha256": "5ba943c830221dffd96cb670a9212be820c9ecb5bb846b1012e2e7626941283d"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.32(2).jpeg",
+      "size_bytes": 245351,
+      "sha256": "2ed03d55006ecc000b6d431fa852b63611fe0d750461b6eaf6f4ce8c48cd47b5"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.32(3).jpeg",
+      "size_bytes": 258310,
+      "sha256": "74017e6401387379b1aeff357acdc839f5d42c819c582b231a203e8186966385"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.32.jpeg",
+      "size_bytes": 228013,
+      "sha256": "6a150d7992d2c0bbae829d5909d180723d23beb26c03873d4b2583d0623f2585"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.33(1).jpeg",
+      "size_bytes": 217377,
+      "sha256": "6bc5cc531f1c5caaa3641b7ae456e4870252556375aa1f7d3771f6736437d431"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.33(2).jpeg",
+      "size_bytes": 222440,
+      "sha256": "13f7525f5a33445e99f80bd75f3f72095e863f0dc42a6ab7b3d76bf1580dd2af"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.33(3).jpeg",
+      "size_bytes": 226437,
+      "sha256": "6323389c4f11c6cbf6a0f2bc3f829d9c0c84d84aa5a6f73a92090a7b8743852e"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.33.jpeg",
+      "size_bytes": 260779,
+      "sha256": "5ebcb35eac3844fb61f7b51664b7644ec4fad5dd11cf43a4d4aed817a71b1531"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.34(1).jpeg",
+      "size_bytes": 225313,
+      "sha256": "219df997fef1664a85782b00138364e79c6d5fc6e9565c4478971615b0aeff13"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.34(2).jpeg",
+      "size_bytes": 228417,
+      "sha256": "445ff7cfaab41a44d9f7eb7702b1911e0cf5aba3b3aa9b73b0b77386a2ac0f0b"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.34(3).jpeg",
+      "size_bytes": 273509,
+      "sha256": "361d01e1e5c936162f9dd0a0ee7643ec1db325880c290b55135b58e245dc72d8"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.34.jpeg",
+      "size_bytes": 218080,
+      "sha256": "dc6ce0792434d1c15cd8d41cab3ba85ad6db32108fb2153130866466c71e4ea6"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.35(1).jpeg",
+      "size_bytes": 131015,
+      "sha256": "70d36509a5a1e45917a1d361038968987a79d8b68dc9c7ff059e75723d93033e"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.35(2).jpeg",
+      "size_bytes": 115122,
+      "sha256": "71bab1158f0882ef8d1347d56ee5e577d6a02c65f46e2314d1039535ebd162ef"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.35(3).jpeg",
+      "size_bytes": 191706,
+      "sha256": "27a0df801b51c93ea6d8802171bb2ed516bee28b1c735a91214c46ef94a877c5"
+    },
+    {
+      "path": "specification/media/images/WhatsAppImage2026-10-17at09.03.35.jpeg",
+      "size_bytes": 211763,
+      "sha256": "e66343c50a7b62d92cf0a5af3196c8c441447f91ed152777e4fb7f54d6e9171d"
+    },
+    {
+      "path": "specification/media/videos/WhatsAppVideo2026-10-18at17.35.56.mp4",
+      "size_bytes": 18204289,
+      "sha256": "cc0aec1f1e5b531251b3a4b273c6a88ab99d71da22a6589e3198deac733d1b2a"
+    },
+    {
+      "path": "specification/media/videos/WhatsAppVideo2026-10-20at15.09.28.mp4",
+      "size_bytes": 18965972,
+      "sha256": "73086833c0e850ef9f4c54a71125c61cc3b3d98217fb1854afc565cbb4bbacc6"
+    },
+    {
+      "path": "specification/scenarios/1_perfect_arrival.scenario.md",
+      "size_bytes": 2505,
+      "sha256": "ced885ca29e1ac5a83550231c35cf60ac86782b6cc6fc6143452979c03b05a7f"
+    }
+  ]
+}
